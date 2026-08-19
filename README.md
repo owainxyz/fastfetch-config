@@ -1,9 +1,5 @@
 # fastfetch-config
 
-## i made this before i knew about qfetch 
-
-my fastfetch setup.
-
 ![preview](preview.png)
 
 ## install
