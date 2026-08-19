@@ -4,21 +4,7 @@
 
 my fastfetch setup.
 
-```
-  ▗▄   ▗▄ ▄▖      owain@nixos
- ▄▄🬸█▄▄▄🬸█▛ ▃     -----------
-   ▟▛    ▜▃▟🬕     os: NixOS
-🬋🬋🬫█      █🬛🬋🬋    host: B550 Motherboard
- 🬷▛🮃▙    ▟▛       kernel: Linux
- 🮃 ▟█🬴▀▀▀█🬴▀▀     uptime: 2 hours
-  ▝▀ ▀▘   ▀▘      memory: 4.60 GiB / 78.47 GiB (6%)
-                  pkgs: 2409
-```
-                                    
-
-
-
-
+![preview](preview.png)
 
 ## install
 
