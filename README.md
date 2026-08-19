@@ -1,18 +1,23 @@
 # fastfetch-config
 
+## i made this before i knew about qfetch 
+
 my fastfetch setup.
 
-```
-▗▄   ▗▄ ▄▖
- ▄▄🬸█▄▄▄🬸█▛ ▃      owain@nixos
-   ▟▛    ▜▃▟🬕      -----------
-🬋🬋🬫█      █🬛🬋🬋      os: NixOS 25.05
- 🬷▛🮃▙    ▟▛        host: B550 GAMING X V2 (-CF)
- 🮃 ▟█🬴▀▀▀█🬴▀▀      kernel: 6.14.8
-  ▝▀ ▀▘   ▀▘       uptime: 1h 52m
-                   memory: 1.2 GiB / 78 GiB
-                   pkgs: 2409
-```
+  ▗▄   ▗▄ ▄▖      owain@nixos
+ ▄▄🬸█▄▄▄🬸█▛ ▃     -----------
+   ▟▛    ▜▃▟🬕     os: NixOS
+🬋🬋🬫█      █🬛🬋🬋    host: B550 Motherboard
+ 🬷▛🮃▙    ▟▛       kernel: Linux
+ 🮃 ▟█🬴▀▀▀█🬴▀▀     uptime: 2 hours
+  ▝▀ ▀▘   ▀▘      memory: 4.60 GiB / 78.47 GiB (6%)
+                  pkgs: 2409
+
+                                    
+owain@nixos:~$ 
+
+
+
 
 ## install
 
