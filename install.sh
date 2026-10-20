@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-repo="https://raw.githubusercontent.com/epwv/fastfetch-config/main"
+repo="https://raw.githubusercontent.com/owainxyz/fastfetch-config/main"
 target_dir="${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch"
 
 mkdir -p "$target_dir"
